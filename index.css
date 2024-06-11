@@ -1,0 +1,10 @@
+.input-group {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#submit-btn {
+    border-radius: 5px;
+}
